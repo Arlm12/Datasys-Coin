@@ -215,7 +215,7 @@ This is a modular system ready for further exploration:
 
 ## 📜 License
 
-MIT License (suggested) — open source and free to modify.
+MIT License — open source and free to modify.
 
 ---
 
